@@ -2,7 +2,7 @@
 contentType: blog
 path: /new-gatsby-blog
 title: New Blog Is Up and Running
-date: 2018-03-07T23:36:02-05:00
+date: 2018-03-07
 ---
 Creating a blog has been on my To-Do list for a while now, and I finally took the time to research the process over the weekend. I was surprised at the relative ease of the process now as I haven't done much web design in the last decade or so.
 

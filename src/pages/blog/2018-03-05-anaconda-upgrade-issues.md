@@ -2,7 +2,7 @@
 contentType: blog
 path: /anaconda-upgrade-issues
 title: Avoiding update issues in Anaconda from 5.01 to 5.1
-date: 2018-03-05T17:12:33-05:00
+date: 2018-03-05
 ---
 I decided to update my Anaconda3 distribution today on my Windows 10 laptop and ran into a number of issues. I am posting my solution here to help others who may come across similar issues.
 
